@@ -1,0 +1,6 @@
+Doorbell.pro.user
+Makefile
+Makefile.Debug
+Makefile.Release
+debug/
+doorbell/
