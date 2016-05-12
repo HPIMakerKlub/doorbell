@@ -1,5 +1,7 @@
 # doorbell
 
+![](other/photo.jpg)
+
 ## SERVER
 
 Um den fertigen Container zu starten folgendes Kommando verwenden:
