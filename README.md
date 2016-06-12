@@ -11,3 +11,6 @@ Um den fertigen Container zu starten folgendes Kommando verwenden:
 Um den Container selbst zu erstellen:
 
     sudo docker build -t jakobbraun/hpi-makerklub-bell .
+
+## Hardware
+Neben der ESP Umgebung wird folgende Bibliothek benötigt: https://github.com/morrissinger/ESP8266-Websocket.git
