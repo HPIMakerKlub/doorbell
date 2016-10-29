@@ -5,7 +5,9 @@
 ## Benutzung
 ![](other/qrcode.png)
 
-Die Klingel wird durch das Scannen des QR-Codes betätigt. (Der Link muss im Browser geöffnet werden.)
+Die Klingel wird durch das Scannen des QR-Codes betätigt. Der hinterlegte Link muss im Browser geöffnet werden.
+
+    http://j.braun.mooo.com:8080/bell
 
 ## SERVER
 
