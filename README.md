@@ -2,6 +2,11 @@
 
 ![](other/photo.jpg)
 
+## Benutzung
+![](other/qrcode.png)
+
+Die Klingel wird durch das Scannen des QR-Codes betätigt. (Der Link muss im Browser geöffnet werden.)
+
 ## SERVER
 
 Um den fertigen Container zu starten folgendes Kommando verwenden:
